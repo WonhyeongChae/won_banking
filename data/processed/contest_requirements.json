@@ -1,0 +1,25 @@
+{
+  "source": "assets/originals/contest_poster.png",
+  "extracted_at": "2026-10-22",
+  "method": "manual visual transcription",
+  "team_size": 3,
+  "max_pages": 5,
+  "format": "PDF",
+  "topic_selection_count": 1,
+  "topics": [
+    "더 나은 우리WON뱅킹을 위한 개선 아이디어",
+    "AI agent를 활용한 우리WON뱅킹의 미래 방향 제시",
+    "우리WON뱅킹 신규 서비스 제안"
+  ],
+  "deadline_date": "2026-10-23",
+  "deadline_time": null,
+  "deadline_year_basis": "본선 2026년 및 포스터 요일 기준 해석",
+  "unconfirmed": [
+    "접수 URL",
+    "마감 시각",
+    "파일명",
+    "용량",
+    "필수 서식",
+    "심사 배점"
+  ]
+}
